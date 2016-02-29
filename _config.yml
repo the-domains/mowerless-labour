@@ -1,0 +1,28 @@
+name: mowerless labour
+favicon: null
+layout_spectrum: 0.6247566412203014
+typography_spectrum: 0.2669639834202826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.19750326126813889
+  lightness: 0.8915659436024725
+  saturation: 0.45394660998135805
+  rhythmicContrast: 0.9793755162972957
+purpose: []
