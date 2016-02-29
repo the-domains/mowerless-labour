@@ -1,4 +1,4 @@
-name: MOWERLESS LABOUR
+name: mowerless labour
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#050426'
-    - '#81b16b'
-    - '#303144'
-    - '#516c4f'
-    - '#fbedf6'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#ecf6f8'
+    - '#ed1f2b'
+    - '#1c489f'
+    - '#eb747b'
+    - '#96abcf'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
